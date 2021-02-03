@@ -2,6 +2,8 @@
 #This assignment should be completed in RStudioCloud
 #For full credit, provide answers for at least 6/9 questions
 
+#this is the workspace that worked with push/commit. the other one didn't
+
 #List names of students collaborating with: 
 
 ### SETUP: RUN THIS BEFORE STARTING ----------
@@ -26,6 +28,11 @@ ds_combined <- bind_rows(ds1, ds2, ds3)
 #For this assignment, you created a fork from the Github repo and cloned your own copy
 #As you work on the assignment, make commits and push the changes to your own repository.
 #Make your repository public and paste the link here:
+
+#The_Link:
+
+
+
 
 #ANSWER
 #YOUR GITHUB LINK: 
